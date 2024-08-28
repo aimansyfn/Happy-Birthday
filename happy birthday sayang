@@ -1,0 +1,23 @@
+DOCTYPE html>
+<html>
+    <head>
+        <title>Dialog Alert</title>
+    </head>
+    <body>
+    <script>
+        alert("Assalamualaikum hai dak tecik");
+        alert("selamat ulang tahun  " );
+        alert("semoga panjang umur");
+        alert(" dilimpahi rezeki ");
+        alert("somoga tercapai cita citanya");
+        alert("semoga jadi anak yang soleh");
+        alert("jangan lupa solat ye" );
+        alert("ehh... satu lagi");
+        alert("jangan tinggalkan saya tau");
+        alert("saya sayangkan awak tau ")
+        alert("maaf tidak mampu nak bagi macam macam saya harap awak ade dengan saya selamanye) ;
+        alert(" okay ni last hshshs")
+        alert("sekali lagi happy birthday sayang")
+    </script>
+    </body>
+</html
